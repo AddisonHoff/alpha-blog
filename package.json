@@ -1,5 +1,7 @@
 {
   "name": "alpha-blog",
   "private": true,
-  "dependencies": {}
+  "dependencies": {
+    "brew": "0.0.8"
+  }
 }
