@@ -2,6 +2,7 @@
   "name": "alpha-blog",
   "private": true,
   "dependencies": {
-    "brew": "0.0.8"
+    "brew": "0.0.8",
+    "heroku": "^7.0.87"
   }
 }
