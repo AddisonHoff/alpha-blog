@@ -41,6 +41,11 @@ $navbar-default-bg: black;
     font-size: 20px;
 }
 
+.article-meta-details {
+    border-top: 1px solid #eaeaea;
+    margin-top: 15px;
+}
+
 .btn-primary:hover, .btn-primary:focus, .btn-primary:active, .btn-primary.active, .open>.dropdown-toggle.btn-primary {
     color: #fff;
     background-color: #4ae068;
