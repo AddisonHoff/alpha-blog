@@ -65,6 +65,7 @@ class ArticlesController < ApplicationController
         if current_user != @article.user
             flash[:danger] = "You can only edit or delete your own articles"
         end
+    end
 
     
 end
